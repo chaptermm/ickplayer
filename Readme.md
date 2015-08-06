@@ -4,7 +4,7 @@ wordpress插件，无广告调用优酷，土豆，音乐台等视频网站，
 
 **调用方法：**
 - [ick]视频网址[/ick]
-例如：~~http://v.yinyuetai.com/video/644116~~
+例如：http://v.yinyuetai.com/video/644116
 
 **下载链接：**
 - [点击此处][1],下载压缩包，然后上传到WordPress插件目录,再启用插件即可。
