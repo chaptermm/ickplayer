@@ -1,10 +1,10 @@
-# ickplayer
+# ickplayer readme file
 
 wordpress插件，无广告调用优酷，土豆，音乐台等视频网站，
 
 **调用方法：**
 ```sh
-          [ick]http://v.yinyuetai.com/video/644116[/ick]
+   [ick]http://v.yinyuetai.com/video/644116[/ick]
 ```
 
 **下载链接：**
